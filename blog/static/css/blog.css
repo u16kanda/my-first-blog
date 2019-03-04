@@ -37,7 +37,7 @@ body {
 }
 
 .post-form textarea, .post-form input{
-	width : 20%;
+	width : 100%;
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited{
